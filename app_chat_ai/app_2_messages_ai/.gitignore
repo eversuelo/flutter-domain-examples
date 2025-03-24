@@ -43,3 +43,52 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# Windows specific
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# Windows Explorer thumbnail cache files
+*.stackdump
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+# Flutter Windows build artifacts
+/windows/flutter/ephemeral/
+build/windows/
+windows/runner/Debug/
+windows/runner/Release/
+windows/runner/Profile/
+
+# Visual Studio specific
+.vs/
+*.vcxproj.user
+*.vcxproj.filters
+*.pdb
+*.idb
+*.ipch
+*.obj
+*.o
+*.exe
+*.ilk
+*.log
+*.sdf
+*.sqlite
+*.user
+*.opendb
+*.tlog
+*.lastbuildstate
+*.vcxproj.*
+*.ncb
+*.suo
+*.sln.docstates
